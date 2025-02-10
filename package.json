@@ -2,6 +2,10 @@
   "name": "google-news-decoder",
   "version": "1.0.0",
   "description": "Decode Google News article URLs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhir9/google-news-decoder.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
