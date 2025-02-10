@@ -27,6 +27,8 @@ const GoogleNewsDecoder = require("google-news-decoder");
 - Works with RSS and standard Google News URLs
 - Supports proxy configuration
 
+## Author
+[Abhimanyu Singh Rathore](https://github.com/abhir9)
 
 ## License
 MIT
