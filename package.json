@@ -1,6 +1,6 @@
 {
   "name": "google-news-decoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Decode Google News article URLs",
   "repository": {
     "type": "git",
