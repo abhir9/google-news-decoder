@@ -1,0 +1,20 @@
+{
+  "name": "google-news-decoder",
+  "version": "1.0.0",
+  "description": "Decode Google News article URLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "google-news",
+    "url-decoder",
+    "news-parser"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0"
+  }
+}
